@@ -1,9 +1,9 @@
-# Maintainer: Anton Hvornum <anton@hvornum.se>
+# Maintainer: mod by j4y7 (original author) Anton Hvornum <anton@hvornum.se>
 # Contributor: Giancarlo Razzolini <grazzolini@archlinux.org>
 # Contributor: demostanis worlds <demostanis@protonmail.com>
 
-pkgname=archinstall-git
-pkgver=$(git describe --long | sed 's/\([^-]*-g\)/r\1/;s/-/./g')
+pkgname=archinstall-git-mod
+pkgver='1.mod'
 pkgrel=1
 pkgdesc="Just another guided/automated Arch Linux installer with a twist"
 arch=('any')
